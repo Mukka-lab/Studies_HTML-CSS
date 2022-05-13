@@ -1,0 +1,37 @@
+*{
+    border: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.produto{
+    background-color: lightblue;
+    border: 2px solid rgb(84, 212, 255);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.produto button{
+    background-color: grey;
+    padding: 10px 20px;
+    border: 1px solid rgb(78, 78, 78);
+    border-radius: 5px;
+}
+.produto button:hover{
+    background-color: rgb(78, 78, 78);
+    cursor: pointer;
+}
+
+.produto a{
+    text-decoration: none;
+    color: black;
+}

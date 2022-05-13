@@ -1,0 +1,17 @@
+span{
+    display: inline-block;
+}
+
+.caixa1{
+    background-color: aquamarine;
+    padding: 20px 40px;
+    margin: 10px 50px;
+    border: 5px solid black;
+}
+
+.caixa2{
+    background-color: darkorchid;
+    padding: 80px 40px;
+    margin: 60px 20px;
+    border: 5px solid black;
+}
